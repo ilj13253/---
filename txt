@@ -1,0 +1,1 @@
+скачать библиотеку pip install sketchpy
